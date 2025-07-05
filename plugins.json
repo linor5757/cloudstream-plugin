@@ -2,20 +2,19 @@
     {
         "iconUrl": "https://www.google.com/s2/favicons?domain=bluphim.art&sz=%size%",
         "apiVersion": 1,
-        "repositoryUrl": "https://t.me/cloudstream_extension_vn",
         "fileSize": 48209,
         "status": 1,
         "authors": [
-            "anhdaden"
+            "linor"
         ],
         "tvTypes": [
             "TvSeries",
             "Movie"
         ],
         "version": 16,
-        "internalName": "BluPhimProvider",
+        "internalName": "XoilacProvider",
         "description": "FullHD",
-        "url": "https://gitlab.com/tearrs/movie/-/raw/main/BluPhimProvider.cs3",
+        "url": "https://raw.githubusercontent.com/leeshin5757/cloudstream-plugin-vn/main/XoilacProvider.cs3",
         "name": "BluPhimProvider"
     }
 ]
