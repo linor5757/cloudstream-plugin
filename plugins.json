@@ -1,0 +1,21 @@
+[
+    {
+        "iconUrl": "https://www.google.com/s2/favicons?domain=bluphim.art&sz=%size%",
+        "apiVersion": 1,
+        "repositoryUrl": "https://t.me/cloudstream_extension_vn",
+        "fileSize": 48209,
+        "status": 1,
+        "authors": [
+            "anhdaden"
+        ],
+        "tvTypes": [
+            "TvSeries",
+            "Movie"
+        ],
+        "version": 16,
+        "internalName": "BluPhimProvider",
+        "description": "FullHD",
+        "url": "https://gitlab.com/tearrs/movie/-/raw/main/BluPhimProvider.cs3",
+        "name": "BluPhimProvider"
+    }
+]
