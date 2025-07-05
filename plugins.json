@@ -14,7 +14,7 @@
         "version": 16,
         "internalName": "XoilacProvider",
         "description": "FullHD",
-        "url": "https://raw.githubusercontent.com/leeshin5757/cloudstream-plugin-vn/main/XoilacProvider.cs3",
-        "name": "BluPhimProvider"
+        "url": "https://raw.githubusercontent.com/linor5757/cloudstream-plugin/main/XoilacProvider.cs3",
+        "name": "XoilacProvider"
     }
 ]
