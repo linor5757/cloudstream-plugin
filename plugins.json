@@ -8,7 +8,8 @@
             "linor"
         ],
         "tvTypes": [
-            "Live"
+            "Live",
+            "Others"
         ],
         "version": 16,
         "internalName": "XoilacProvider",
