@@ -16,5 +16,23 @@
         "description": "FullHD",
         "url": "https://raw.githubusercontent.com/linor5757/cloudstream-plugin/main/XoilacProvider.cs3",
         "name": "XoilacProvider"
+    },
+    {
+        "iconUrl": "https://xem2.cakhia63.xyz/favicon.ico",
+        "apiVersion": 1,
+        "fileSize": 48209,
+        "status": 1,
+        "authors": [
+            "linor"
+        ],
+        "tvTypes": [
+            "Live",
+            "Others"
+        ],
+        "version": 16,
+        "internalName": "CakhiaTV",
+        "description": "FullHD",
+        "url": "https://raw.githubusercontent.com/linor5757/cloudstream-plugin/main/CakhiaTV.cs3",
+        "name": "CakhiaTV"
     }
 ]
