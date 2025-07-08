@@ -49,7 +49,7 @@
         ],
         "version": 2,
         "internalName": "HHPandaProvider",
-        "url": "https://raw.githubusercontent.com/leeshin5757/cloudstream-plugin-vn/main/PandaProvider.cs3",
+        "url": "https://raw.githubusercontent.com/linor5757/cloudstream-plugin/main/PandaProvider.cs3",
         "name": "HHPandaProvider"
     }
 ]
