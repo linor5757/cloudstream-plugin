@@ -34,5 +34,22 @@
         "description": "FullHD",
         "url": "https://raw.githubusercontent.com/linor5757/cloudstream-plugin/main/CakhiaTV.cs3",
         "name": "CakhiaTV"
+    },
+    {
+        "iconUrl": "https://raw.githubusercontent.com/leeshin5757/cloudstream-plugin-vn/main/icon/hhpanda.png",
+        "apiVersion": 1,
+        "repositoryUrl": "https://github.com/leeshin5757/cloudstream-plugin-vn/tree/main",
+        "status": 1,
+        "language": "vi",
+        "authors": [
+            "Linor"
+        ],
+        "tvTypes": [
+            "Anime"
+        ],
+        "version": 2,
+        "internalName": "HHPandaProvider",
+        "url": "https://raw.githubusercontent.com/leeshin5757/cloudstream-plugin-vn/main/PandaProvider.cs3",
+        "name": "HHPandaProvider"
     }
 ]
