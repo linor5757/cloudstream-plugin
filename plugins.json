@@ -68,5 +68,23 @@
         "internalName": "AnimeHayProvider",
         "url": "https://raw.githubusercontent.com/linor5757/cloudstream-plugin/main/AnimeHayProvider.cs3",
         "name": "AnimeHayProvider"
+    },
+    {
+        "iconUrl": "https://www.google.com/s2/favicons?domain=phimlongtieng.com&sz=%size%",
+        "apiVersion": 1,
+        "repositoryUrl": "https://github.com/leeshin5757/cloudstream-plugin-vn/tree/main",
+        "status": 1,
+        "language": "vi",
+        "authors": [
+            "Linor"
+        ],
+        "tvTypes": [
+            "TvSeries",
+            "Movie"
+        ],
+        "version": 2,
+        "internalName": "PhimLongTiengProvider",
+        "url": "https://raw.githubusercontent.com/linor5757/cloudstream-plugin/main/PhimLongTieng.cs3",
+        "name": "PhimLongTieng"
     }
 ]
