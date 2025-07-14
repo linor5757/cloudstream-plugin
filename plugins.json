@@ -86,5 +86,23 @@
         "internalName": "PhimLongTiengProvider",
         "url": "https://raw.githubusercontent.com/linor5757/cloudstream-plugin/main/PhimLongTieng.cs3",
         "name": "PhimLongTieng"
+    },
+    {
+        "iconUrl": "https://cdn-live.taoxanh.biz/web-live/images/logo.svg",
+        "apiVersion": 1,
+        "repositoryUrl": "https://github.com/leeshin5757/cloudstream-plugin-vn/tree/main",
+        "status": 1,
+        "language": "vi",
+        "authors": [
+            "Linor"
+        ],
+        "tvTypes": [
+            "Live",
+            "Others"
+        ],
+        "version": 2,
+        "internalName": "BunchaProvider",
+        "url": "https://raw.githubusercontent.com/linor5757/cloudstream-plugin/main/BunchaProvider.cs3",
+        "name": "BunchaTV"
     }
 ]
