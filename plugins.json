@@ -104,5 +104,24 @@
         "internalName": "BunchaProvider",
         "url": "https://raw.githubusercontent.com/linor5757/cloudstream-plugin/main/BunchaProvider.cs3",
         "name": "BunchaTV"
+    },
+    {
+        "iconUrl": "https://www.google.com/s2/favicons?domain=kkphim.vip&sz=%size%",
+        "apiVersion": 1,
+        "repositoryUrl": "https://github.com/leeshin5757/cloudstream-plugin-vn/tree/main",
+        "status": 1,
+        "language": "vi",
+        "authors": [
+            "Linor"
+        ],
+        "tvTypes": [
+            "Anime",
+            "TvSeries",
+            "Movie"
+        ],
+        "version": 2,
+        "internalName": "KKPhimProvider",
+        "url": "https://raw.githubusercontent.com/leeshin5757/cloudstream-plugin-vn/main/PhimBetaProvider.cs3",
+        "name": "KKPhimProvider"
     }
 ]
