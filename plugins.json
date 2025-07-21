@@ -121,7 +121,7 @@
         ],
         "version": 2,
         "internalName": "KKPhimProvider",
-        "url": "https://raw.githubusercontent.com/leeshin5757/cloudstream-plugin-vn/main/PhimBetaProvider.cs3",
+        "url": "https://raw.githubusercontent.com/linor5757/cloudstream-plugin/main/PhimBetaProvider.cs3",
         "name": "KKPhimProvider"
     }
 ]
