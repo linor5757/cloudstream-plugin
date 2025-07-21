@@ -1,0 +1,13 @@
+#EXTM3U
+#EXT-X-VERSION:6
+
+# AUDIO TRACKS
+#EXT-X-MEDIA:TYPE=AUDIO,GROUP-ID="audio/mp4a",LANGUAGE="lt",NAME="Lồng Tiếng",DEFAULT=NO,AUTOSELECT=NO,
+URI="https://sgn-vtt-live-001-ca204.vieon.vn/85e1d97c811f21eba8bbd4a0b9a013fe/1753135184000/ott-vod-2021/05/11/hail-the-judge-lt-final-1105-7811e6b58a67864806dbc023c559d522/audio/und/mp4a/1/profile.m3u8"
+#EXT-X-MEDIA:TYPE=AUDIO,GROUP-ID="audio/mp4a",LANGUAGE="tg",NAME="Tiếng Gốc",DEFAULT=YES,AUTOSELECT=YES,
+URI="https://sgn-vtt-live-001-ca204.vieon.vn/31c951313fa4dc12e4a6295cc4660bda/1753135184000/ott-vod-2020/06/24/hail-the-judge-raw-fix-42835935ffc6efb7dec44710e2c0d52b/audio/und/mp4a/1/profile.m3u8"
+
+# VIDEO STREAMS (liên kết audio group phía trên)
+#EXT-X-STREAM-INF:BANDWIDTH=6734175,AVERAGE-BANDWIDTH=3666561,RESOLUTION=1920x1080,FRAME-RATE=25.0,
+CODECS="avc1.4D4028,mp4a.40.2",AUDIO="audio/mp4a"
+https://sgn-vtt-live-001-ca204.vieon.vn/1931f3b2801d52a0034f87cf2c8340b2/1753135184000/ott-vod-2020/06/24/hail-the-judge-raw-fix-42835935ffc6efb7dec44710e2c0d52b/video/avc1/QdJGge/profile.m3u8
