@@ -106,7 +106,7 @@
         "name": "BunchaTV"
     },
     {
-        "iconUrl": "https://www.google.com/s2/favicons?domain=kkphim.vip&sz=%size%",
+        "iconUrl": "https://raw.githubusercontent.com/leeshin5757/cloudstream-plugin-vn/main/icon/phimviet.png",
         "apiVersion": 1,
         "repositoryUrl": "https://github.com/leeshin5757/cloudstream-plugin-vn/tree/main",
         "status": 1,
@@ -118,10 +118,13 @@
             "Anime",
             "TvSeries",
             "Movie"
+            "Live",
+            "Others"
         ],
         "version": 2,
-        "internalName": "KKPhimProvider",
+        "internalName": "PhimBetaProvider",
+        "description": "4K, FullHD",
         "url": "https://raw.githubusercontent.com/linor5757/cloudstream-plugin/main/PhimBetaProvider.cs3",
-        "name": "KKPhimProvider"
+        "name": "PhimBetaProviderr"
     }
 ]
