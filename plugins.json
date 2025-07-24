@@ -123,7 +123,7 @@
         ],
         "version": 2,
         "internalName": "PhimBetaProvider",
-        "description": "4K, FullHD",
+        "description": "4K",
         "url": "https://raw.githubusercontent.com/linor5757/cloudstream-plugin/main/PhimBetaProvider.cs3",
         "name": "PhimBetaProviderr"
     }
