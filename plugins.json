@@ -116,10 +116,8 @@
         ],
         "tvTypes": [
             "Anime",
-            "TvSeries",
             "Movie"
             "Live",
-            "Others"
         ],
         "version": 2,
         "internalName": "PhimBetaProvider",
