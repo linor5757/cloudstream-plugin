@@ -119,9 +119,9 @@
             "Movie"
         ],
         "version": 2,
-        "internalName": "PhimBetaProvider",
+        "internalName": "PhimViet",
         "description": "4k-FullHD",
         "url": "https://raw.githubusercontent.com/linor5757/cloudstream-plugin/main/PhimBetaProvider.cs3",
-        "name": "PhimBetaProviderr"
+        "name": "PhimViet"
     }
 ]
