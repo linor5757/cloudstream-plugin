@@ -141,5 +141,23 @@
         "internalName": "Dailymotion-VN",
         "url": "https://raw.githubusercontent.com/linor5757/cloudstream-plugin/main/Dailymotion.cs3",
         "name": "Dailymotion-VN"
+    },
+    {
+        "iconUrl": "https://www.google.com/s2/favicons?domain=www.dailymotion.com&sz=%size%",
+        "apiVersion": 1,
+        "repositoryUrl": "https://github.com/leeshin5757/cloudstream-plugin-vn/tree/main",
+        "status": 1,
+        "language": "vi",
+        "authors": [
+            "Linor"
+        ],
+        "tvTypes": [
+            "TvSeries",
+            "Movie"
+        ],
+        "version": 2,
+        "internalName": "LiveTV",
+        "url": "https://raw.githubusercontent.com/linor5757/cloudstream-plugin/main/LiveTVProvider.cs3",
+        "name": "LiveTV"
     }
 ]
