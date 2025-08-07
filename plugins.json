@@ -159,5 +159,23 @@
         "internalName": "LiveTV",
         "url": "https://raw.githubusercontent.com/linor5757/cloudstream-plugin/main/LiveTVProvider.cs3",
         "name": "LiveTV"
+    },
+    {
+        "iconUrl": "https://raw.githubusercontent.com/leeshin5757/cloudstream-plugin-vn/main/icon/hhkungfu.png",
+        "apiVersion": 1,
+        "repositoryUrl": "https://github.com/leeshin5757/cloudstream-plugin-vn/tree/main",
+        "status": 1,
+        "language": "vi",
+        "authors": [
+            "Linor"
+        ],
+        "tvTypes": [
+            "Anime",
+            "AnimeMovie"
+        ],
+        "version": 2,
+        "internalName": "HHkungfuProvider",
+        "url": "https://raw.githubusercontent.com/linor5757/cloudstream-plugin/main/HHKungFuProvider.cs3",
+        "name": "HHkungfuProvider"
     }
 ]
