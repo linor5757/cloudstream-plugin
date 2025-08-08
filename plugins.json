@@ -177,5 +177,23 @@
         "internalName": "HHkungfuProvider",
         "url": "https://raw.githubusercontent.com/linor5757/cloudstream-plugin/main/HHKungFuProvider.cs3",
         "name": "HHkungfuProvider"
+    },
+    {
+        "iconUrl": "https://raw.githubusercontent.com/leeshin5757/cloudstream-plugin-vn/main/icon/phimmoi.ico",
+        "apiVersion": 1,
+        "repositoryUrl": "https://github.com/leeshin5757/cloudstream-plugin-vn/tree/main",
+        "status": 1,
+        "language": "vi",
+        "authors": [
+            "Linor"
+        ],
+        "tvTypes": [
+            "TvSeries",
+            "Movie"
+        ],
+        "version": 2,
+        "internalName": "PhimMoiProvider",
+        "url": "https://raw.githubusercontent.com/linor5757/cloudstream-plugin/main/PhimMoiChillProvider.cs3",
+        "name": "PhimMoiProviderr"
     }
 ]
