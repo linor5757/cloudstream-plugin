@@ -195,5 +195,22 @@
         "internalName": "PhimMoiProvider",
         "url": "https://raw.githubusercontent.com/linor5757/cloudstream-plugin/main/PhimMoiChillProvider.cs3",
         "name": "PhimMoiProviderr"
+    },
+    {
+        "iconUrl": "https://yanhh3d.net/storage/settings/August2024/YOoAwtlobLbwKhiFwRZv.png",
+        "apiVersion": 1,
+        "repositoryUrl": "https://github.com/leeshin5757/cloudstream-plugin-vn/tree/main",
+        "status": 1,
+        "language": "vi",
+        "authors": [
+            "Linor"
+        ],
+        "tvTypes": [
+            "Anime"
+        ],
+        "version": 2,
+        "internalName": "YanHH3DProvider",
+        "url": "https://raw.githubusercontent.com/linor5757/cloudstream-plugin/main/Yan3dProvider.cs3",
+        "name": "YanHH3DProvider"
     }
 ]
