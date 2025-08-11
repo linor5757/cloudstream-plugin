@@ -214,7 +214,7 @@
         "name": "YanHH3DProvider"
     },
     {
-        "iconUrl": "https://yanhh3d.net/storage/settings/August2024/YOoAwtlobLbwKhiFwRZv.png",
+        "iconUrl": "https://raw.githubusercontent.com/leeshin5757/cloudstream-plugin-vn/main/icon/nguonc.icon.png",
         "apiVersion": 1,
         "repositoryUrl": "https://github.com/leeshin5757/cloudstream-plugin-vn/tree/main",
         "status": 1,
@@ -223,7 +223,8 @@
             "Linor"
         ],
         "tvTypes": [
-            "Anime"
+            "TvSeries",
+            "Movie"
         ],
         "version": 2,
         "internalName": "NguonCProvider",
