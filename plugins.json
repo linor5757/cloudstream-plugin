@@ -212,5 +212,22 @@
         "internalName": "YanHH3DProvider",
         "url": "https://raw.githubusercontent.com/linor5757/cloudstream-plugin/main/Yan3dProvider.cs3",
         "name": "YanHH3DProvider"
+    },
+    {
+        "iconUrl": "https://yanhh3d.net/storage/settings/August2024/YOoAwtlobLbwKhiFwRZv.png",
+        "apiVersion": 1,
+        "repositoryUrl": "https://github.com/leeshin5757/cloudstream-plugin-vn/tree/main",
+        "status": 1,
+        "language": "vi",
+        "authors": [
+            "Linor"
+        ],
+        "tvTypes": [
+            "Anime"
+        ],
+        "version": 2,
+        "internalName": "NguonCProvider",
+        "url": "https://raw.githubusercontent.com/linor5757/cloudstream-plugin/main/PhimNguonCProvider.cs3",
+        "name": "PhimNguồnC"
     }
 ]
