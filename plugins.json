@@ -249,5 +249,24 @@
         "internalName": "KKPhimProvider",
         "url": "https://raw.githubusercontent.com/linor5757/cloudstream-plugin/main/KKPhimProvider.cs3",
         "name": "KKPhimProvider"
+    },
+    {
+        "iconUrl": "https://ophim17.cc/icon_ophim.png",
+        "apiVersion": 1,
+        "repositoryUrl": "https://github.com/leeshin5757/cloudstream-plugin-vn/tree/main",
+        "status": 1,
+        "language": "vi",
+        "authors": [
+            "Linor"
+        ],
+        "tvTypes": [
+            "Anime",
+            "TvSeries",
+            "Movie"
+        ],
+        "version": 2,
+        "internalName": "OPhimProvider",
+        "url": "https://raw.githubusercontent.com/linor5757/cloudstream-plugin/main/OPhimProvider.cs3",
+        "name": "OPhimProvider"
     }
 ]
