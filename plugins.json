@@ -268,5 +268,23 @@
         "internalName": "OPhimProvider",
         "url": "https://raw.githubusercontent.com/linor5757/cloudstream-plugin/main/OPhimProvider.cs3",
         "name": "OPhimProvider"
+    },
+    {
+        "iconUrl": "https://raw.githubusercontent.com/leeshin5757/cloudstream-plugin-vn/main/icon/bluphim.ico",
+        "apiVersion": 1,
+        "repositoryUrl": "https://github.com/leeshin5757/cloudstream-plugin-vn/tree/main",
+        "status": 1,
+        "language": "vi",
+        "authors": [
+            "Linor"
+        ],
+        "tvTypes": [
+            "TvSeries",
+            "Movie"
+        ],
+        "version": 2,
+        "internalName": "BluPhim",
+        "url": "https://raw.githubusercontent.com/linor5757/cloudstream-plugin/main/BluPhimProvider.cs3",
+        "name": "BluPhim"
     }
 ]
