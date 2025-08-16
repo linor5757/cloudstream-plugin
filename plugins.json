@@ -156,9 +156,9 @@
             "Movie"
         ],
         "version": 2,
-        "internalName": "LiveTV",
-        "url": "https://raw.githubusercontent.com/linor5757/cloudstream-plugin/main/LiveTVProvider.cs3",
-        "name": "LiveTV"
+        "internalName": "SieuTamPhim",
+        "url": "https://raw.githubusercontent.com/linor5757/cloudstream-plugin/main/SieuTamPhim.cs3",
+        "name": "Siêu Tầm Phim"
     },
     {
         "iconUrl": "https://raw.githubusercontent.com/leeshin5757/cloudstream-plugin-vn/main/icon/hhkungfu.png",
