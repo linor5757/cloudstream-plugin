@@ -270,7 +270,7 @@
         "name": "OPhimProvider"
     },
     {
-        "iconUrl": "https://raw.githubusercontent.com/leeshin5757/cloudstream-plugin-vn/main/icon/bluphim.ico",
+        "iconUrl": "https://1.bp.blogspot.com/-IQDLl14N-_8/ZHj8B-8tKWI/AAAAAAAAIys/ULVaZwvkFB8w1X1kwD7v46nsjl-llI5rgCNcBGAsYHQ/s16000/Si%25C3%25AAu%2BT%25E1%25BA%25A7m%2BPhim.png",
         "apiVersion": 1,
         "repositoryUrl": "https://github.com/leeshin5757/cloudstream-plugin-vn/tree/main",
         "status": 1,
@@ -279,6 +279,7 @@
             "Linor"
         ],
         "tvTypes": [
+            "Anime",
             "TvSeries",
             "Movie"
         ],
