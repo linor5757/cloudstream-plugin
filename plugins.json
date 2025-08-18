@@ -288,5 +288,24 @@
         "internalName": "BluPhim",
         "url": "https://raw.githubusercontent.com/linor5757/cloudstream-plugin/main/BluPhimProvider.cs3",
         "name": "BluPhim"
+    },
+    {
+        "iconUrl": "https://sdfim.org/wp-content/uploads/2023/01/SDFIM-15.png",
+        "apiVersion": 1,
+        "repositoryUrl": "https://github.com/leeshin5757/cloudstream-plugin-vn/tree/main",
+        "status": 1,
+        "language": "vi",
+        "authors": [
+            "Linor"
+        ],
+        "tvTypes": [
+            "Anime",
+            "TvSeries",
+            "Movie"
+        ],
+        "version": 2,
+        "internalName": "SdFim",
+        "url": "https://raw.githubusercontent.com/linor5757/cloudstream-plugin/main/SdFim.cs3",
+        "name": "SdFim"
     }
 ]
