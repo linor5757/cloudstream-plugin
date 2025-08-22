@@ -324,5 +324,22 @@
         "internalName": "HHTQ4K",
         "url": "https://raw.githubusercontent.com/linor5757/cloudstream-plugin/main/HHTQ4KTOP.cs3",
         "name": "HHTQ4K"
+    },
+    {
+        "iconUrl": "https://hhtq4k.top/wp-content/uploads/2025/04/cropped-ChatGPT-Image-08_53_40-17-thg-4-2025-192x192.png",
+        "apiVersion": 1,
+        "repositoryUrl": "https://github.com/leeshin5757/cloudstream-plugin-vn/tree/main",
+        "status": 1,
+        "language": "vi",
+        "authors": [
+            "Linor"
+        ],
+        "tvTypes": [
+            "Anime"
+        ],
+        "version": 2,
+        "internalName": "HoliTV",
+        "url": "https://raw.githubusercontent.com/linor5757/cloudstream-plugin/main/HoliTV.cs3",
+        "name": "HoliTV"
     }
 ]
