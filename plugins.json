@@ -343,5 +343,24 @@
         "internalName": "HoliTV",
         "url": "https://raw.githubusercontent.com/linor5757/cloudstream-plugin/main/HoliTV.cs3",
         "name": "HoliTV"
+    },
+    {
+        "iconUrl": "https://www.rophim.me/images/favicon.ico?v=0.1",
+        "apiVersion": 1,
+        "repositoryUrl": "https://github.com/leeshin5757/cloudstream-plugin-vn/tree/main",
+        "status": 1,
+        "language": "vi",
+        "authors": [
+            "Linor"
+        ],
+        "tvTypes": [
+            "Anime",
+            "TvSeries",
+            "Movie"
+        ],
+        "version": 2,
+        "internalName": "RoPhimProvider",
+        "url": "https://raw.githubusercontent.com/linor5757/cloudstream-plugin/main/RoPhimProvider.cs3",
+        "name": "Rổ Phim"
     }
 ]
